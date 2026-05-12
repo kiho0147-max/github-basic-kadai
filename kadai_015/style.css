@@ -8,15 +8,15 @@ body{
     font-family: "Arial", "Meiryo", sans-serif;
     }
 h1{
-    font-family:  sans-serif;
+    font-family:  "Josefin Sans",sans-serif;
     text-align: center;
     font-size: 2em;
-    text-shadow: 0ch;
+    text-shadow: 3px,3px,2px,rgb(115, 115, 114);
     border-bottom: 3px solid rgb(115, 115, 114);
     letter-spacing: 1.2em;
 }
 
-#basic p{
+#basic > p{
     font-weight: bold;
 }
 
